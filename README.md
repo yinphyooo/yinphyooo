@@ -65,6 +65,12 @@
 
 ---
 
+## 🌍 Languages
+
+- 🇲🇲 Burmese (Native)
+- 🇬🇧 English (Basic / Intermediate)
+- 🇯🇵 Japanese (Basic Learner)
+
 ## 🤝 Looking to Collaborate On
 
 - Beginner-Friendly Projects
